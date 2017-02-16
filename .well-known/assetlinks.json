@@ -1,0 +1,14 @@
+[
+    {
+        "relation":[
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target":{
+            "namespace":"android_molihe_test",
+            "package_name":"com.molihe.test",
+            "sha256_cert_fingerprints":[
+                "02:B0:7E:D0:9B:D1:90:D4:D3:A4:28:3C:A6:29:E9:81:6E:A3:AF:48:84:14:9F:5E:8E:E7:A5:5E:C6:B9:19:9F"
+            ]
+        }
+    }
+]
