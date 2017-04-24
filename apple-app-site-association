@@ -9,6 +9,10 @@
 			{
                 "appID": "7GL725C6FL.com.nsm.UniversalLinks",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "7GL725C6FL.com.xinpianchang.MagicFood",
+                "paths": [ "*" ]
             }
 		]
 	}
